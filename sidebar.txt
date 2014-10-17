@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vig:home|Door43 (vig)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vig|d43-vig repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vig/archive/master.zip|d43-vig.zip]]
+
+**Recent Changes**
+{{changes>ns = vig}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vig|Ethnologue data]]
+
